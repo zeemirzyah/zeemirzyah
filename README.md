@@ -4,7 +4,7 @@
 </div>
 
 <p align="center">
-  <img src="./assets/typewriter-animation.gif" alt="header-img" width="600">
+  <img src="./assets/images/typewriter-animation.gif" alt="header-img" width="600">
 </p>
 
 > **Full-Stack & Mobile Development**  
@@ -64,7 +64,7 @@ When I'm not writing code or building applications, you can usually find me:
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZarkashMirza&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zeemirzyah&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
