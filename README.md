@@ -1,10 +1,9 @@
-## 
 <div align='center'>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=30&duration=6000&pause=1000&color=FFFFFF&width=435&lines=Hi+there%2C+I'm+Zee!" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=28&duration=3000&pause=1000&color=F2A13D&background=75E0BE00&center=true&vCenter=true&width=450&lines=Hi+there%2C+I'm+Zee!" alt="Typing SVG" /></a>
 </div>
 
 <p align="center">
-  <img src="./assets/images/typewriter-animation.gif" alt="header-img" width="600">
+  <img src='./assets/images/typewriter-animation.gif' alt="header-img" width="600">
 </p>
 
 > **Full-Stack & Mobile Development**  
